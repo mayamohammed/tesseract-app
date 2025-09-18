@@ -1,6 +1,7 @@
 # TesseractApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.2.
+Application web Angular pour la reconnaissance de texte à partir d’images, utilisant Tesseract.js. Permet aux utilisateurs de glisser-déposer des fichiers image, d’extraire le texte et de l’afficher dans une interface moderne et intuitive. Idéal pour la conversion rapide de documents scannés ou de photos en texte éditable.
 
 ## Development server
 
